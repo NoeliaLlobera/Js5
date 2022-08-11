@@ -34,4 +34,4 @@ let saludo = (string) => {
         console.log(string.repeat(3));
     } 
 }
-saludo("Hola")
+saludo("Hola");
